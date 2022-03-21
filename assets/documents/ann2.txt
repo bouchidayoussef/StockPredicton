@@ -1,0 +1,1 @@
+- As you can see here, **ANN** consists of **3 layers**: **_Input_**, **_Hidden_** and **_Output_**. The **input layer** accepts the inputs, the **hidden layer** processes the inputs, and the **output layer** produces the result. Essentially, each layer tries to learn certain weights.

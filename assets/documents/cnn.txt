@@ -1,0 +1,1 @@
+- **_Convolutional neural networks_** (**CNN**) are all the rage in the deep learning community right now. These **CNN models** are being used across different applications and domains, and they’re especially prevalent in **image and video processing** projects.

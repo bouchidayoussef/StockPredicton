@@ -1,0 +1,6 @@
+- A usual **RNN** has a **short-term memory**. In combination with a **LSTM** they also have a **long-term memory**.
+
+- Another good way to illustrate the concept of a **recurrent neural network**'s memory is to explain it with an example:
+
+_Imagine you have a normal **feed-forward neural network** and give it the word **"neuron"** as an **input** and it processes the word character by character. By the time it reaches the character "r," it has already **forgotten** about "n," "e" and "u," which makes it almost **impossible** for this type of **neural network** to predict which character would come next.
+A **recurrent neural network**, however, is able to **remember** those characters because of its **internal memory**. It produces output, copies that output and **loops it back** into the network._
